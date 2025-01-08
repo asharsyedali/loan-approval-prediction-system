@@ -45,7 +45,7 @@ The project uses a dataset containing various attributes related to individuals 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-approval-prediction-system.git
+   git clone https://github.com/syedasharali/loan-approval-prediction-system.git
    cd loan-approval-prediction-system
    ```
 
